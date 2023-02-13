@@ -1,5 +1,3 @@
-#Open Ended Experiment
-#ARITRA CHATTERJEE - 2004010
 clc;
 clear;
 close all;
